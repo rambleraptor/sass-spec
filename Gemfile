@@ -8,4 +8,5 @@ gem "hrx", '~> 1.0'
 
 group :development do
   gem 'rspec'
+  gem 'aruba'
 end
